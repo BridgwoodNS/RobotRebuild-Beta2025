@@ -7,7 +7,25 @@
         {
           "type": "path",
           "data": {
-            "pathName": "SimplePath"
+            "pathName": "North_P1"
+          }
+        },
+        {
+          "type": "wait",
+          "data": {
+            "waitTime": 1.0
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P1_P2"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "New Path"
           }
         }
       ]
